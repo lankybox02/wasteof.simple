@@ -1,0 +1,8 @@
+{
+  "name": "wasteof.simple",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.1",
+    "wasteof-client": "^3.0.0"
+  }
+}
